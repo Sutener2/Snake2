@@ -21,6 +21,7 @@ To play the game, clone the repository and compile the code using a C++ compiler
 Compilation and Execution
 
 1. Clone the repository:
+https://github.com/Sutener2/Snake2
 
 2. 2. Navigate to the cloned directory and compile the code:
 g++ -o SnakeGame SnakeGame.cpp
